@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+#title{
+    font-style: normal;
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(123, 40, 206);
+}
+.post{
+    background-color: #FFF;
+    padding: 10px;
+    border: 3px solid blueviolet;
+    margin: 10px;
+    box-shadow: -10px 10px 10px ;
+}
+.subtitle{
+    font-style: normal;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(159, 48, 233)
+}
+.post_title{
+    font-style: normal;
+    font-size: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(159, 48, 233)
+}
+p{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
